@@ -14,8 +14,10 @@ We then denoise the image by convolving the image with an average filter. Finall
 ![](https://raw.githubusercontent.com/aznxed/brain-mri-segmentation/master/img/Brain%20Isosurface.png)
 
 **Upcoming**
+
 As a current student at the Alabama College of Osteopathic Medicine, I will be 3D printing the STL file and using it to study for neuroanatomy. Hopefully, the resolution is sufficient. 
 
 **Credit**
+
 Lab was completed along with Kenneth Weintraub, Jackie Woznicki, and Krupali Patel. 
 imshow3D was created by Maysam Shahedi and can be found [here]https://www.mathworks.com/matlabcentral/fileexchange/41334-imshow3d
