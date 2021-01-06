@@ -1,5 +1,5 @@
 # Brain MRI Segmentation and Modeling
-The following MATLAB file reads in a brain MRI, segments it, and generates a model ready for 3D printing. This was a lab assignment during my time at the Johns Hopkins Applied Biomedical Engineering program. 
+The following MATLAB file reads in a brain MRI, segments it, and generates an STL model ready for 3D printing. This was a lab assignment during my time at the Johns Hopkins Applied Biomedical Engineering program. 
 
 First, we have to load the image and crop out extraneous black pixels. We do this by obtain the min and max coordinates of all dimensions with pixels that aren't black. Crop the image accordingly. 
 
