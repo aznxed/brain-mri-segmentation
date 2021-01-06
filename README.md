@@ -3,7 +3,7 @@ The following MATLAB file reads in a brain MRI, segments it, and generates an ST
 
 First, we have to load the image and crop out extraneous black pixels. We do this by obtain the min and max coordinates of all dimensions with pixels that aren't black. Crop the image accordingly. 
 
-![](https://raw.githubusercontent.com/aznxed/brain-mri-segmentation/master/img/Montage%20of%20Normalized%20Brain%20MRI.png)
+![](https://raw.githubusercontent.com/aznxed/brain-mri-segmentation/master/img/Initial%20Brain%20MRI.gif)
 
 Susequently, we normalize the image and perform histogram equalization to increase the contrast of an image by modifying the intensity distribution of the histogram.
 
